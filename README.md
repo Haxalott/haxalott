@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am a starting out FiveM developer from Tasmania, Australia. I am currently working on a multitude of scripts such as an armory script and mining script.</p>
+<p align="center">I am a starting out FiveM developer from Tasmania, Australia. I am currently working on a multitude of scripts such as an armory script and mining script. I am currently learning a few languages, such as HTML, CSS, JavaScript and a few others! So hopefully in a little bit I should be able to do a bit of everything.</p>
 
 ###
 
