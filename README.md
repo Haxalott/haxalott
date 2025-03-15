@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Haxalott.<br><br>I have been making scripts for a GTA V modding platform by the name of FiveM for about a 1 - 2 years now.<br><br>I currently mainly specialize in Lua, but also know HTML, CSS, JavaScript and TypeScript, and some python aswell.
+Hi, I'm Haxalott.<br><br>I have been making scripts for a GTA V modding platform by the name of FiveM for about 1 - 2 years now.<br><br>I currently mainly specialize in Lua, but also know HTML, CSS, JavaScript and TypeScript, and some python aswell.
 
 
 ## 🌐 Socials:
